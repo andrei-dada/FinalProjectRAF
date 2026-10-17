@@ -39,7 +39,7 @@ _(RAF-DB also has `fear`, but I dropped it — see the notes at the end for why.
 - Runs **live from the webcam** — no uploading images, it reads frames every ~1.5s.
 - Detects the face first (OpenCV Haar cascade) so the model only looks at the face, not the background.
 - Returns the predicted emotion **+ a confidence score**, and says `"no emotion"` when it's not sure enough.
-- The whole model is tiny (~4.6 MB), so it runs fine on a laptop CPU.
+- The whole model is decently tiny (~30 MB), so it runs fine on a laptop CPU.
 
 ## Tech used
 
