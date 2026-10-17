@@ -150,8 +150,8 @@ This is the part I actually want to remember, so I'm writing it down.
 ## How to run it
 
 ```bash
-git clone https://github.com/andrei-dada/ProiectFinalRAF.git
-cd ProiectFinalRAF
+git clone https://github.com/andrei-dada/FinalProjectRAF.git
+cd FinalProjectRAF
 
 python3 -m venv .venv
 source .venv/bin/activate
