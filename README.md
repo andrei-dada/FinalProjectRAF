@@ -1,7 +1,7 @@
 # 🎭 Facial Emotion Recognition (RAF-DB)
 
-> **Graduation Project — Step IT Academy**
-> _Final project · graded 10/10, finished top of my class_
+> **Graduation Project — Step IT Academy**\
+> _Final project · graded 10/10, finished top of my class_\
 > _Built before starting university (now a 1st-year Computer Science student)_
 >
 > Trained from scratch in TensorFlow, served live through Flask + OpenCV.
