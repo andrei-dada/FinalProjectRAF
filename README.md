@@ -182,5 +182,6 @@ downloaded through `kagglehub`.
 
 ---
 
-> _Bonus: 20% of the time I spent "training a neural network" was actually me staring at a
-> confusion matrix wondering why the diagonal was empty._
+
+> _Bonus: 70% of the time I spent on this project was actually wasted trying to make the classic FER dataset work until I manually inspected the images and realized it didn't have enough samples, the low-res grayscale photos were terrible, and half the labels didn't even match the actual emotions._\
+> _Switching to RAF-DB saved my sanity._
